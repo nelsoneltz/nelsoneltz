@@ -28,11 +28,7 @@ first_name,last_name = 'Nelson', 'Eltz'
 job,company = 'Data Analyst','PicPay'
 code = ['Python','SQL','PySpark','HTML','CSS']
 tools = ['Docker','Airflow','Databricks']
-learning = ['Data Engineering','Javascript','Django', 'API''Mage']
-on_going_projects = {
-    "Discord Bot" : "Developing a Discord bot for a role-playing game called As Chaves da Torre",
-    "FlexDuck" : "My friend wanderbatistaf is developing a modular ERP and I am helping as much as I can creating database connections and API",
-    "Dev.to" : "Creating a blog for documenting my studies of data engineering"}
+learning = ['Data Engineering','Javascript','Django', 'API','Mage']
 hobbies = [
     {"reading",
      "currently" :"The Fundamentals of Data Engineering"},
@@ -42,6 +38,12 @@ hobbies = [
 ```
 
 </div>
+
+### Currently working on:
+- Discord Bot: Developing a Discord bot for a role-playing game called As Chaves da Torre;
+- FlexDuck: My friend @wanderbatistaf is developing a modular ERP and I am helping as much as I can building database and api connections;
+- Dev.to: Creating a blog for documenting my studies on the field of Data Engineering
+
 
 ---
  
