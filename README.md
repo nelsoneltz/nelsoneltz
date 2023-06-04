@@ -1,10 +1,6 @@
 <div align = 'center'>
-
-## Hi, I'm Nelson Eltz!
-
-
- <img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortFlat&accessoriesType=Blank&hairColor=BrownDark&facialHairType=BeardLight&facialHairColor=BrownDark&clotheType=Hoodie&clotheColor=Black&eyeType=Default&eyebrowType=DefaultNatural&mouthType=Default&skinColor=Light'
- height = 200/></div>
+ <img src='name.gif'>
+ </div>
 
 <div >
 <em align='center'>
