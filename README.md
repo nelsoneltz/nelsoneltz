@@ -40,9 +40,9 @@ hobbies = [
 </div>
 
 ### Currently working on:
-- Discord Bot: Developing a Discord bot for a role-playing game called As Chaves da Torre;
-- FlexDuck: My friend @wanderbatistaf is developing a modular ERP and I am helping as much as I can building database and api connections;
-- Dev.to: Creating a blog for documenting my studies on the field of Data Engineering
+- 🤖 Discord Bot: Developing a Discord bot for a role-playing game called As Chaves da Torre;
+- 🦆 FlexDuck: My friend @wanderbatistaf is developing a modular ERP and I am helping as much as I can building database and api connections;
+- 📕 Dev.to: Creating a blog for documenting my studies on the field of Data Engineering
 
 
 ---
