@@ -17,9 +17,9 @@
 ---
 ---
 
-<div >
+<!-- <div >
 <img src="intro.gif" align = 'right' height=400>
-</div>
+</div> -->
 
 <div ><em align = 'left'>
 
