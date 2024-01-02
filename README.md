@@ -21,7 +21,7 @@
 
 ```python
 first_name,last_name = 'Nelson', 'Eltz'
-job,company = 'Data Analyst','PicPay'
+job,company = 'Business Analyst','iFood'
 code = ['Python','SQL','PySpark','HTML','CSS']
 tools = ['Docker','Airflow','Databricks']
 learning = ['Data Engineering','Javascript','Django', 'API','Mage']
@@ -29,7 +29,7 @@ hobbies = [
     {"reading",
      "currently" :"The Fundamentals of Data Engineering"},
     {"music",
-     "listening_to" : "King Gizzard & the Lizard Wizzard"}
+     "listening_to" : ["King Gizzard & the Lizard Wizzard","Slayer","Turnstile","Pearl Jam","]}
 ]
 ```
 
@@ -37,9 +37,7 @@ hobbies = [
 
 ### Currently working on:
 - 🤖 Discord Bot: Developing a Discord bot for a role-playing game called As Chaves da Torre;
-- 🦆 FlexDuck: My friend @wanderbatistaf is developing a modular ERP and I am helping as much as I can building database and api connections;
-- 📕 Dev.to: Creating a blog for documenting my studies on the field of Data Engineering
-
+- 1️⃣ First Alexa Skill: Developing my first Alexa Skill for Stocks Analysis
 
 ---
 ---
