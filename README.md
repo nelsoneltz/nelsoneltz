@@ -29,7 +29,7 @@ hobbies = [
     {"reading",
      "currently" :"The Fundamentals of Data Engineering"},
     {"music",
-     "listening_to" : ["King Gizzard & the Lizard Wizzard","Slayer","Turnstile","Pearl Jam","]}
+     "listening_to" : ["King Gizzard & the Lizard Wizzard","Slayer","Turnstile","Pearl Jam"]}
 ]
 ```
 
