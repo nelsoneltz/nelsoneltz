@@ -21,15 +21,15 @@
 
 ```python
 first_name,last_name = 'Nelson', 'Eltz'
-job,company = 'Business Analyst','iFood'
+job,company = 'Business Intelligence Analyst','iFood'
 code = ['Python','SQL','PySpark','HTML','CSS']
 tools = ['Docker','Airflow','Databricks']
 learning = ['Data Engineering','Javascript','Django', 'API','Mage']
 hobbies = [
     {"reading",
-     "currently" :"The Fundamentals of Data Engineering"},
+     "currently" :["Hands-on Machine Learning","Deep Learning with Python","Manual de DevOps"]},
     {"music",
-     "listening_to" : ["King Gizzard & the Lizard Wizzard","Slayer","Turnstile","Pearl Jam"]}
+     "listening_to" : ["King Gizzard & the Lizard Wizzard","Slayer","Turnstile","Pearl Jam","Angra","Druidess"]}
 ]
 ```
 
