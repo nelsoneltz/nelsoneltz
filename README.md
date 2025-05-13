@@ -11,7 +11,6 @@
 </div>
 
 ---
----
 
 <!-- <div >
 <img src="intro.gif" align = 'right' height=400>
@@ -24,7 +23,7 @@ first_name,last_name = 'Nelson', 'Eltz'
 job,company = 'Business Intelligence Analyst','iFood'
 code = ['Python','SQL','PySpark','HTML','CSS']
 tools = ['Docker','Airflow','Databricks']
-learning = ['Data Engineering','Javascript','Django', 'API','Mage']
+learning = ['Data Engineering','Javascript', 'React']
 hobbies = [
     {"reading",
      "currently" :["Hands-on Machine Learning","Deep Learning with Python","Manual de DevOps"]},
@@ -39,5 +38,4 @@ hobbies = [
 - 🤖 Discord Bot: Developing a Discord bot for a role-playing game called As Chaves da Torre;
 - 1️⃣ First Alexa Skill: Developing my first Alexa Skill for Stocks Analysis
 
----
 ---
