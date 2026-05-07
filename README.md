@@ -23,12 +23,12 @@ first_name,last_name = 'Nelson', 'Eltz'
 job,company = 'Business Intelligence Analyst','iFood'
 code = ['Python','SQL','PySpark','HTML','CSS']
 tools = ['Docker','Airflow','Databricks']
-learning = ['Data Engineering','Javascript', 'React']
+learning = ['IA', 'Data Engineering','Javascript', 'React']
 hobbies = [
     {"reading",
      "currently" :["Hands-on Machine Learning","Deep Learning with Python","Manual de DevOps"]},
     {"music",
-     "listening_to" : ["King Gizzard & the Lizard Wizzard","Slayer","Turnstile","Pearl Jam","Angra","Druidess"]}
+     "listening_to" : ["King Gizzard & the Lizard Wizzard",'Queens of the Stone Age']}
 ]
 ```
 
@@ -36,6 +36,6 @@ hobbies = [
 
 ### Currently working on:
 - 🤖 Discord Bot: Developing a Discord bot for a role-playing game called As Chaves da Torre;
-- 1️⃣ First Alexa Skill: Developing my first Alexa Skill for Stocks Analysis
+- 💬 Whispy: App that uses open source model for audio transcription
 
 ---
